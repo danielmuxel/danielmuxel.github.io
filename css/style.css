@@ -22,8 +22,8 @@ a {
     color: #E87C17;
 }
 
-.content {
-    display: block;
+a:hover {
+    color: #ECA35E;
 }
 
 .code {
